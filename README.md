@@ -5,7 +5,7 @@ A simple repo implementing 4 rate limiting algorithms using only python, flask a
 
 [![System Design](https://img.shields.io/badge/system--design-rate--limiter-brightgreen?style=for-the-badge)]()
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-green.svg)](https://opensource.org/licenses/)
 
 
 ## Installation
