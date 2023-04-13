@@ -1,7 +1,9 @@
 
 # Rate Limiter via python
 
-A simple repo implementing 4 rate limiting algorithms using only python, flask and schedule library.
+A simple repo implementing different rate limiting algorithms using only python, flask and schedule library.
+ - tocken bucket
+ - leaking bucket
 
 [![System Design](https://img.shields.io/badge/system--design-rate--limiter-brightgreen?style=for-the-badge)]()
 
